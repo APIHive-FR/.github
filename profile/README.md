@@ -74,5 +74,5 @@ Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détai
 
 ## 🌍 Contact
 
-Pour plus d'informations, visitez notre site web [APIHive](https://www.apihive.com) ou contactez-nous à [contact@apihive.com](mailto\:contact@apihive.com).
+Pour plus d'informations, visitez notre site web [APIHive](https://www.apihive.fr) ou contactez-nous à [contact@apihive.fr](mailto\:contact@apihive.fr).
 
